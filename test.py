@@ -1,1 +1,1 @@
-print("Phathaipakk")
+print("Phathaipak")
