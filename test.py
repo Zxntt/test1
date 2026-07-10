@@ -1,1 +1,5 @@
 print("Phathaipak")
+print("Phathaipak")
+print("Phathaipak")
+print("Phathaipak")
+print("Phathaipak")
