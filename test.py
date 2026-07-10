@@ -2,4 +2,4 @@ print("Phathaipak")
 print("Phathaipak")
 print("Phathaipak")
 print("Phathaipak")
-print("Phathaipak")w
+print("Phathaipak")
